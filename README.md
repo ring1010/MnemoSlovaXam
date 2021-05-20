@@ -1,0 +1,2 @@
+# MnemoSlovaXam
+Xamarin MnemoSlovar
